@@ -4,7 +4,7 @@ In this project, I analyze SAT scores for public schools in New York City to ide
 
 ## Acknowledgment
 
-The idea and dataset for this are from this DataCamp project.
+The idea and dataset for this are from [this DataCamp project](https://app.datacamp.com/learn/projects/exploring_nyc_public_school_test_result_scores/guided/Python).
 
 ## Contact
 
